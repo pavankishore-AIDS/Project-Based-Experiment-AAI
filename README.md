@@ -35,7 +35,9 @@ print(positive_feedback)
 ```
 
 <H3>Output:</H3>
-![o1](https://github.com/pavankishore-AIDS/Project-Based-Experiment-AAI/assets/94154941/41b28e19-73c6-4442-a645-d93b5f5fcfb7)
+
+
+![o1](https://github.com/pavankishore-AIDS/Project-Based-Experiment-AAI/assets/94154941/17bbcd23-fc86-4a9b-b9a4-08e272e9fb49)
 
 ![o2](https://github.com/pavankishore-AIDS/Project-Based-Experiment-AAI/assets/94154941/d7fa7106-f4ec-41b5-aa14-da5c2c9620c2)
 
